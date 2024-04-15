@@ -1,0 +1,5 @@
+POST - https://gt8y8d48c3.execute-api.us-east-1.amazonaws.com/prod/notes
+GET - https://gt8y8d48c3.execute-api.us-east-1.amazonaws.com/prod/notes/{id}
+GET - https://gt8y8d48c3.execute-api.us-east-1.amazonaws.com/prod/notes
+PUT - https://gt8y8d48c3.execute-api.us-east-1.amazonaws.com/prod/notes/{id}
+DELETE - https://gt8y8d48c3.execute-api.us-east-1.amazonaws.com/prod/notes/{id}
